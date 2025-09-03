@@ -1,2 +1,2 @@
-- ⚔️ PVP master
-- 🧱 Minecraft PRO
+# - ⚔️ PVP master
+# - 🧱 Minecraft PRO
